@@ -1,0 +1,37 @@
+rosalind franklin.  Prediction: writer.  Wrong.
+government: 0.44     writer: 0.44     music: 0.1     scientist: 0.01
+
+lady gaga.  Prediction: music.  Right.
+government: 0.29     writer: 0.29     music: 0.41     scientist: 0.01
+
+aung san suu kyi.  Prediction: government.  Right.
+government: 0.89     writer: 0.05     music: 0.04     scientist: 0.02
+
+john lewis.  Prediction: government.  Right.
+government: 0.99     writer: 0.0     music: 0.0     scientist: 0.0
+
+naguid mahfouz.  Prediction: scientist.  Wrong.
+government: 0.02     writer: 0.34     music: 0.0     scientist: 0.63
+
+hilary mantel.  Prediction: writer.  Right.
+government: 0.05     writer: 0.92     music: 0.01     scientist: 0.01
+
+barbara mcclintock.  Prediction: scientist.  Right.
+government: 0.19     writer: 0.19     music: 0.04     scientist: 0.58
+
+toni morrison.  Prediction: writer.  Right.
+government: 0.0     writer: 1.0     music: 0.0     scientist: 0.0
+
+jean perrin.  Prediction: scientist.  Right.
+government: 0.06     writer: 0.06     music: 0.01     scientist: 0.86
+
+segolene royal.  Prediction: government.  Right.
+government: 1.0     writer: 0.0     music: 0.0     scientist: 0.0
+
+erik satie.  Prediction: music.  Right.
+government: 0.0     writer: 0.0     music: 1.0     scientist: 0.0
+
+sin itiro tomonaga.  Prediction: scientist.  Right.
+government: 0.0     writer: 0.03     music: 0.0     scientist: 0.97
+
+Overall accuracy: 10 out of 12 = 0.83

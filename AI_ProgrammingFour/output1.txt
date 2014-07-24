@@ -1,0 +1,49 @@
+simone de beauvoir.  Prediction: music.  Wrong.
+government: 0.0     writer: 0.27     music: 0.45     scientist: 0.27
+
+charles de gaulle.  Prediction: writer.  Wrong.
+government: 0.0     writer: 0.91     music: 0.01     scientist: 0.08
+
+benjamin disraeli.  Prediction: music.  Wrong.
+government: 0.0     writer: 0.0     music: 0.99     scientist: 0.0
+
+george eliot.  Prediction: writer.  Right.
+government: 0.01     writer: 0.95     music: 0.04     scientist: 0.0
+
+rosalind franklin.  Prediction: writer.  Wrong.
+government: 0.04     writer: 0.48     music: 0.43     scientist: 0.04
+
+lady gaga.  Prediction: government.  Wrong.
+government: 0.63     writer: 0.06     music: 0.31     scientist: 0.01
+
+aung san suu kyi.  Prediction: government.  Right.
+government: 0.75     writer: 0.07     music: 0.11     scientist: 0.07
+
+john lewis.  Prediction: government.  Right.
+government: 0.98     writer: 0.01     music: 0.01     scientist: 0.0
+
+naguid mahfouz.  Prediction: scientist.  Wrong.
+government: 0.0     writer: 0.01     music: 0.01     scientist: 0.98
+
+hilary mantel.  Prediction: writer.  Right.
+government: 0.01     writer: 0.85     music: 0.07     scientist: 0.08
+
+barbara mcclintock.  Prediction: government.  Wrong.
+government: 0.32     writer: 0.32     music: 0.03     scientist: 0.32
+
+toni morrison.  Prediction: writer.  Right.
+government: 0.01     writer: 0.98     music: 0.01     scientist: 0.0
+
+jean perrin.  Prediction: scientist.  Right.
+government: 0.01     writer: 0.01     music: 0.01     scientist: 0.97
+
+segolene royal.  Prediction: government.  Right.
+government: 0.45     writer: 0.04     music: 0.07     scientist: 0.45
+
+erik satie.  Prediction: music.  Right.
+government: 0.0     writer: 0.0     music: 1.0     scientist: 0.0
+
+sin itiro tomonaga.  Prediction: scientist.  Right.
+government: 0.0     writer: 0.08     music: 0.0     scientist: 0.91
+
+Overall accuracy: 9 out of 16 = 0.56
