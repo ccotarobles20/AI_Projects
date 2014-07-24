@@ -1,0 +1,10 @@
+At square START at time 0.0
+At square D at time 1.0
+At square H at time 2.0
+At square L at time 3.0
+At square M at time 4.0
+At square I at time 5.0
+At square M at time 6.0
+At square N at time 7.0
+At square O at time 8.0
+At square GOAL at time 9.0
